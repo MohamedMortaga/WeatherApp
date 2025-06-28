@@ -164,3 +164,11 @@ footer form button {
 .bot{
     color: #afb1bc !important;
 }
+
+
+@media screen and (max-width: 900px) {
+    .ddd{
+        width: 90% !important;
+    }
+    
+}
